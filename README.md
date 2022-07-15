@@ -1,2 +1,2 @@
 # ceasar-encrypt
->> Part of <a href="https://github.com/EDTool"><strong>[EDTool]</strong></a>
+>> Demo a part logic for <a href="https://github.com/Gyginee/EDTool/"><strong>[EDTool]</strong></a>
